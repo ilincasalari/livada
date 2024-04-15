@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    min-height: 95vh;
+    background: linear-gradient(rgba(255, 255, 255, 0.63), rgba(247, 240, 240, 0.664)), url(../images/livada.jpg);
+}
+
+h1{
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+    color: rgb(2, 71, 2);
+}
+div{
+    color: rgb(36, 11, 11);
+   
+} 
+header{
+    background-image: linear-gradient(rgb(53, 82, 53), rgb(111, 126, 111));
+    height: 50px;
+    
+}
+span{
+    color: white;
+
+}
+footer{
+    background-image: linear-gradient(rgb(231, 120, 139), green);
+    height: 50px;
+    text-align: center;
+    color: black;
+}
+main{
+    height: 810px;
+}
+img{
+   float: right;
+   height: 70px;
+
+}
+.n{
+    text-align: center;
+    font-size: 23px;
+    
+}
+p{
+    font-size: 23px;
+    width: 80%;
+   margin-left: 220px;
+}
+.l{
+    text-align: center;
+    color: black; 
+    margin-top: 25px;
+}
